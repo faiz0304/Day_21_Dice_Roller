@@ -1,0 +1,5 @@
+files:
+01_basic_dice_roll.py
+02_dice_roll_store_data.py
+03_dice_roll_simulator_log.py
+check all files and if fixation and bugs then solve else give me with helpful comments for my github profile push

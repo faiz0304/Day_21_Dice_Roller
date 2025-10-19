@@ -1,0 +1,31 @@
+
+---
+
+### `project.yml`
+```yaml
+
+project:
+  title: "Dice Roller Simulator"
+  author: "Faiz Ur Rehman Ashrafi"
+  week: 3
+  day: 21
+  description: "Simulates rolling a dice (1–6) using random numbers and stores results with optional logging."
+  goals:
+    - Learn random number generation
+    - Practice Python functions
+    - Apply file handling concepts
+    - Implement timestamp-based logging
+  files:
+    - 01_basic_dice_roll.py
+    - 02_dice_roll_store_data.py
+    - 03_dice_roll_simulator_log.py
+    - README.md
+    - project.yml
+    - output.txt
+  concepts_used:
+    - random
+    - time
+    - datetime
+    - file handling
+  output_file: dice_simulate_history.txt
+  run_command: "python 03_dice_roll_simulator_log.py"

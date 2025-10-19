@@ -1,0 +1,58 @@
+=== Welcome to Dice Simulator ===
+DICE ROLL (1–6)
+
+Press ENTER to roll or type 'q' to quit:
+Rolling the dice...
+...
+Your Dice Number: 3
+
+Press ENTER to roll or type 'q' to quit:
+Rolling the dice...
+...
+Your Dice Number: 5
+
+Press ENTER to roll or type 'q' to quit:
+Thanks for playing. See you again!
+
+Log File: dice_simulate_history.txt
+Dice Roll: 3 | 20-10-2025 | 02:40:45
+Dice Roll: 5 | 20-10-2025 | 02:41:12
+
+
+
+---
+
+## How to Run
+1. Open a terminal or VS Code.
+2. Navigate to the project folder.
+3. Run any version using:
+python 01_basic_dice_roll.py
+python 02_dice_roll_store_data.py
+python 03_dice_roll_simulator_log.py
+
+---
+
+# Follow on-screen instructions to roll the dice or exit.
+
+---
+
+## Expected Output
+Example terminal session:
+=== Welcome to Dice Simulator ===
+DICE ROLL (1–6)
+
+Press ENTER to roll or type 'q' to quit:
+Rolling the dice...
+...
+Your Dice Number: 4
+
+Press ENTER to roll or type 'q' to quit:
+
+---
+
+## Learning Outcomes
+- Understanding random number generation using `randint()`
+- Writing and appending to files
+- Using functions to organize code
+- Implementing timestamps using `datetime`
+- Exception handling for robust programs
